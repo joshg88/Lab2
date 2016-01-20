@@ -1,2 +1,6 @@
 # Lab2
 First GitHub Repo
+
+
+
+Ducks like to quack, but quacks don't like to duck.
